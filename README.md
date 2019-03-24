@@ -7,10 +7,12 @@ https://www.kaggle.com/c/elo-merchant-category-recommendation
 
 
 1) Overview
+
 Identify and serve the most relevant opportunities to individuals, by uncovering signal in customer loyalty. Your input will improve customers’ lives and help Elo reduce unwanted campaigns, to create the right experience for customers.
 
 
 2) Dataset
+
 Historical_transactions.csv contains up to 3 months' worth of transactions for every card at any of the provided merchant_ids. new_merchant_transactions.csv contains the transactions at new merchants (merchant_ids that this particular card_id has not yet visited) over a period of two months.
 merchants.csv contains aggregate information for each merchant_id represented in the data set.
 
@@ -24,9 +26,11 @@ merchants.csv contains aggregate information for each merchant_id represented
 new_merchant_transactions.csv - two months' worth of data for each card_id containing ALL purchases that card_id made at merchant_ids that were not visited in the historical data.
 
 4) Evaluation
+
 Submissions are scored on the RMSE(Root Mean Squared Error).
 
 5) A summary of Analyze Process
+
   a. EDA
   
     i. Data Collection
@@ -88,6 +92,7 @@ So we try to use Field-Aware Factorization Machines method to tackle this proble
 
 
 7) Families of ML algorithms
+
 There are several categories for machine learning algorithms, below are some of these categories:
 
 • Linear
