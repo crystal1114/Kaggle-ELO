@@ -2,6 +2,7 @@
 Kaggle competition - Elo Merchant Category Recommendation
 Developed algorithms by using Python to identify and serve the most relevant opportunities to individuals.
 Predicted a loyalty score for each card_id by uncovering signals in customer characteristics and behaviors.
+https://www.kaggle.com/c/elo-merchant-category-recommendation
 
 
 
